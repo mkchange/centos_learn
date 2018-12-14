@@ -4,7 +4,7 @@ main()
 {
 	for(int i = 0; i<10 ; i++)
 	{
-		cout<<"hello,world"<<i<<endl;
+		cout<<"hello,world"<<i<<endl; // 1242
 	}	
 	return 0;
 }
